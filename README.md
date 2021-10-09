@@ -28,3 +28,4 @@ Worst case -> O(p*g) where p is the number of people in each group and g is the 
 1. Unit tests
 2. Github CI/CD pipeline
 3. Git managed repo
+4. Git workflow
